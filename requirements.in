@@ -1,0 +1,17 @@
+pandas
+numpy
+matplotlib
+ipykernel
+
+torch 
+torchvision 
+torchaudio
+torchtext
+einops
+tiktoken
+jaxtyping
+tensorflow>=2.15.0
+hydra
+
+ruff
+pip-tools

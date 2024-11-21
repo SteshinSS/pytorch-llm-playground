@@ -1,0 +1,6 @@
+.ruff_cache
+data
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode
